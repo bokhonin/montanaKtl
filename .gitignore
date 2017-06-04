@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+*.log
+/app/build
+/app/libs
+/app/src/androidTest
+/app/src/test
+/.idea
+
+# Gradle
+/gradle
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
+proguard-rules.pro

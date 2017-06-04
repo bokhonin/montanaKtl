@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MontanaKtl</string>
+    <string name="textTitle">Параметры оповещений</string>
+    <string name="switchVibration">Вибрация</string>
+    <string name="switchSound">Звук</string>
+    <string name="btnStart">Старт</string>
+    <string name="btnStop">Стоп</string>
+</resources>
